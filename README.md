@@ -1,8 +1,8 @@
-# Crossing Reduction of Sankey Diagram with Barycentre Ordering via Markov Chain
+# Crossing Reduction of Sankey Diagram with Eigen-centric Layout
 
 by He Chen LI, Shi Ying LI, Bo Wen TAN and Shuai Cheng LI.
 
-This project contains the source code for the above paper. The paper has been submitted to the [46th International Workshop on Graph-Theoretic Concepts in Computer Science](https://algorithms.leeds.ac.uk/wg2020).
+This project contains the source code for the above paper. The paper has been submitted to the [IEEE Pacific Visualization Symposium 2021](http://vis.tju.edu.cn/pvis2021/).
 
 ## Requirements
 
